@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Giselle, and I use they/them pronouns!
+I am a fourth-year student at the University of Pittsburgh in the Digital Narrative & Interactive Design (DNID) program.
+I am minoring in Computer Science and Korean language and culture!
 
 <!--
 **zel-rosales/zel-rosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
