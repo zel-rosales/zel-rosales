@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name is Giselle, and I use they/them pronouns!
-I recently graduated from the University of Pittsburgh in the Digital Narrative & Interactive Design (DNID) program.
-I completed minors in Computer Science and Korean language and culture.
+I am currently pursing a Master's degree in Human-Computer Interaction & User Experience (HCI/UX) at Drexel University.
+Prior to this program, I graduated from the University of Pittsburgh in the Digital Narrative & Interactive Design (DNID) program,
+with minors in Computer Science and Korean language and culture. I also completed the Google UX Design Certificate online course.
 
 <!--
 **zel-rosales/zel-rosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
