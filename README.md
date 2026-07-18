@@ -1,15 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 My name is Giselle, and I use they/them pronouns!
 I recently received a Master's degree in Human-Computer Interaction & User Experience (HCI/UX) at Drexel University.
 Prior to this program, I graduated from the University of Pittsburgh in the Digital Narrative & Interactive Design (DNID) program,
 with minors in Computer Science and Korean language and culture. I also completed the Google UX Design Certificate online course.
 
 ## Skills
-# Design Tools
+### Design Tools
 Figma, HTML/CSS, JavaScript, React Native, WordPress
-# Design Process
+### Design Process
 Prototyping, Wireframing, Design Thinking, Usability Testing
-# User Research
+### User Research
 User Interviews, User Journeys, A/B Testing, Competitive Analysis
 
 <!--
